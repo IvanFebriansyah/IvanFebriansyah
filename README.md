@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ivan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ivan Febriansyah.
+- 👀 I’m interested in Hacking.
+- 🌱 I’m currently learning nothing.
+- 💞️ I’m looking to collaborate on somewhere.
+- 📫 How to reach me say ivaaan 3x out loud.
 
 <!---
 IvanFebriansyah/IvanFebriansyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
